@@ -7,8 +7,8 @@ showSummary: false
 groupbyYear: false
 sharingLinks: [""]
 showTableOfContents: false
-herostyle: "background" # valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+herostyle: "background"
+layoutBackgroundBlur: true
 layoutBackgroundHeaderSpace: false
 showHero: true
 showPagination: false
@@ -19,35 +19,36 @@ showPagination: false
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Geometric Group Theory</title>
-    
+
     <!-- KaTeX Styles -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
-    
+
     <!-- Custom Styles -->
     <style>
-        body {
+        * {
+            box-sizing: border-box;
             margin: 0;
             padding: 0;
-            width: 100%;
-            font-family: 'Arial', sans-serif;
-            background-color: #1e1e1e; /* Dark background for better readability */
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
             color: white;
+            width: 100%;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         .container {
-            max-width: 1200px; /* Ensures content does not stretch too much on large screens */
-            width: 90%; /* Ensures proper scaling for smaller screens */
-            margin: auto;
+            width: 90%;
+            max-width: 1200px;
             padding: 20px;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                width: 100%; /* Full width on smaller screens */
-                padding: 10px;
-            }
+            text-align: center;
         }
 
         a {
@@ -56,33 +57,38 @@ showPagination: false
             font-size: 15pt;
             text-decoration: none;
         }
+
+        @media (max-width: 768px) {
+            .container {
+                width: 95%;
+            }
+        }
     </style>
 </head>
 <body>
 
     <div class="container">
         <h1>Geometric Group Theory</h1>
-        <p>Welcome to the world of Geometric Group Theory!</p>
-
-        <!-- Example Math -->
-        <p>Here is an example of LaTeX rendering:</p>
-        <p>$$ a^2 + b^2 = c^2 $$</p>
-
+        <p>Welcome to Geometric Group Theory!</p>
+        <p>Example LaTeX formula:</p>
+        <p>$$ e^{i\pi} + 1 = 0 $$</p>
         <a href="#">Learn More</a>
     </div>
 
     <!-- KaTeX Scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js"></script>
-    
+
     <script>
-      renderMathInElement(document.body, {
-          delimiters: [
-              {left: "$$", right: "$$", display: true},
-              {left: "\\[", right: "\\]", display: true},
-              {left: "$", right: "$", display: false},
-              {left: "\\(", right: "\\)", display: false}
-          ]
+      document.addEventListener("DOMContentLoaded", function() {
+          renderMathInElement(document.body, {
+              delimiters: [
+                  {left: "$$", right: "$$", display: true},
+                  {left: "\\[", right: "\\]", display: true},
+                  {left: "$", right: "$", display: false},
+                  {left: "\\(", right: "\\)", display: false}
+              ]
+          });
       });
     </script>
 
