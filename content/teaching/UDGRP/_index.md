@@ -3,11 +3,6 @@ title: "Geometric Group Theory (UDGRP 2024)"
 weight: 10
 draft: false
 description: "UDGRP 2024"
-showAuthor: false
-showDate: false
-showDateOnlyInArticle: false
-showDateUpdated: false
-showAuthorBadges: false
 date: 2024-11-28
 ---
 
