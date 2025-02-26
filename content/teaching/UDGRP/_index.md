@@ -15,26 +15,77 @@ showPagination: false
 ---
 {{< katex >}} 
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geometric Group Theory</title>
+    
+    <!-- KaTeX Styles -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js"></script>
+    
+    <!-- Custom Styles -->
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            font-family: 'Arial', sans-serif;
+            background-color: #1e1e1e; /* Dark background for better readability */
+            color: white;
+        }
+
+        .container {
+            max-width: 1200px; /* Ensures content does not stretch too much on large screens */
+            width: 90%; /* Ensures proper scaling for smaller screens */
+            margin: auto;
+            padding: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                width: 100%; /* Full width on smaller screens */
+                padding: 10px;
+            }
+        }
+
+        a {
+            font-family: 'Bebas Neue', sans-serif;
+            color: white;
+            font-size: 15pt;
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
+
+    <div class="container">
+        <h1>Geometric Group Theory</h1>
+        <p>Welcome to the world of Geometric Group Theory!</p>
+
+        <!-- Example Math -->
+        <p>Here is an example of LaTeX rendering:</p>
+        <p>$$ a^2 + b^2 = c^2 $$</p>
+
+        <a href="#">Learn More</a>
+    </div>
+
+    <!-- KaTeX Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js"></script>
+    
     <script>
-      renderMathInElement(
-          document.body,
-          {
-              delimiters: [
-                  {left: "$$", right: "$$", display: true},
-                  {left: "\\[", right: "\\]", display: true},
-                  {left: "$", right: "$", display: false},
-                  {left: "\\(", right: "\\)", display: false}
-              ]
-          }
-      );
+      renderMathInElement(document.body, {
+          delimiters: [
+              {left: "$$", right: "$$", display: true},
+              {left: "\\[", right: "\\]", display: true},
+              {left: "$", right: "$", display: false},
+              {left: "\\(", right: "\\)", display: false}
+          ]
+      });
     </script>
+
 </body>
 </html>
 
