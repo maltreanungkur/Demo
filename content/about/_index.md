@@ -26,8 +26,7 @@ Also if you're a student and came here just for the study materials, they're <a 
 
 - **B.Math. (Bachelor’s)** [Ongoing]
     - **Institution**: Indian Statistical Institute, Bangalore  
-    - **Field**: Mathematics & Statistics with Computer Science, Physics  
-    - **Grade**: 84.7% (First Year)  
+    - **Field**: Mathematics & Statistics with Computer Science, Physics    
     - **Coursework**:  
         Number Theory, Probability, Statistics, Linear Algebra, Group Theory, Rings and Modules, Real Analysis, Multivariable Analysis, Topology, ODE 
     - **Duration**: Aug 2023 – May 2026*   
