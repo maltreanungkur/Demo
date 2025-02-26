@@ -41,7 +41,7 @@ Whereas I have tried to demonstrate how one can understand a complex group prese
 
 In this lecture, Rinkiny covered the basics of group theory, including:
 - Definition of Group.
-- Examples of Group $\left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right)$.
+- Examples of Group \( \left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right) \).
 - Subgroups.
 - Group Presentations (Generators and Relators).
 - Structure preserving maps in Groups (Homomorphism and Isomorphism).
