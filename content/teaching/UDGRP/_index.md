@@ -5,7 +5,6 @@ draft: false
 description: "UDGRP 2024"
 date: 2024-11-28
 ---
-{{< katex >}}
 {{< lead >}}
 <div style="text-align: justify">Welcome to the Undergraduate Directed Group Reading Program (UDGRP) 2024! This year, we will explore Geometric Group Theory (GGT). 
 
