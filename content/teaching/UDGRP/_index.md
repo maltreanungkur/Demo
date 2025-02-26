@@ -18,7 +18,7 @@ Our goal with this approach is to encourage you to engage with the material acti
 You’ll find all the lecture notes and problem sets on this website. If you miss a lecture, don’t worry—we’ll keep everything updated here so you can catch up.
 </div>
 {{</ lead >}}
-
+{{< katex >}}
 ---
 
 ## Timeline
