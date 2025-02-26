@@ -121,3 +121,4 @@ cardViewScreenWidth = false
 # Sidebar Configuration
 showSidebar = true # Enable the sidebar
 sidebarPosition = "left" # valid options: left or right
+sidebarMargin = "20px" # Adjust margin to shift the sidebar to the right
