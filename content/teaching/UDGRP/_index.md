@@ -1,5 +1,5 @@
 ---
-title: "Geometric Group Theory"
+title: "Geometric Group Theory (UDGRP 2024)"
 weight: 10
 draft: false
 description: "UDGRP 2024"

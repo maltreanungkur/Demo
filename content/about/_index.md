@@ -10,68 +10,21 @@ showDateUpdated: false
 showAuthorBadges: false
 ---
 
-{{< lead >}}
-{{< typeit lifelike=true >}}Hi!👋 I'm <strong>Daibik Barik</strong>! {{< /typeit >}}
 
-<div style="text-align: justify"> I'm a college student, who is overwhelmed by the lots and lots of topics and his interests in real life. Even in mathematics, I like graph theory, probability, analysis, topology and sometimes even statistics. Here's to the various <a href="/research">research-related works</a> and this is <a href="/academic">how my year went (academically)</a>. If you want to know me, check out some of my randomness in my <a href="/blog">blog</a>! <br>
-Also if you're a student and came here just for the study materials, they're <a href="/study">here</a>.</div>
+<div style="text-align: justify"> Hey there! I’m Treanungkur (pronounced tri-nang-kur), but feel free to call me whatever version of my name works for you. I’m from Howrah, West Bengal and currently a second-year student at the Indian Statistical Insititute, Bangalore.
+
+My current obsession? Algebra! There's just something magical about how it brings structure to chaos. But honestly, I'm equally excited about anything math-related—it’s the perfect blend of logic, creativity, and endless curiosity. I’m always up for a chat about Group Theory or Algebra in general (right now, Linear Algebra is my go-to). So, if you're into Group Theory or Linear Algebra, feel free to meet me while I’m on campus. I also enjoy talking to juniors, even though I haven’t had many chances to do so yet! Also, ya I love Geometry too, so if you are interested we can also talk about it!
+
+When I’m not lost in problem sets or assignments, I love chatting about math or jotting down random thoughts in LaTeX. If you’re into math too or just want to know how to say "Treanungkur" without a tongue-twist, feel free to reach out!.</div>
 {{</lead>}}
 
- <span style="font-weight:bold;font-size:120%;">Here's my Curriculum Vitae</span> {{< button href="./cv.pdf" target="_blank" >}} {{< icon "download" >}} {{< /button >}}
-
-
 ---
 
-## Education
+<h3>Contact Information</h3>
 
-- **B.Math. (Bachelor’s)** [Ongoing]
-    - **Institution**: Indian Statistical Institute, Bangalore  
-    - **Field**: Mathematics & Statistics with Computer Science, Physics    
-    - **Coursework**:  
-        Number Theory, Probability, Statistics, Linear Algebra, Group Theory, Rings and Modules, Real Analysis, Multivariable Analysis, Topology, ODE 
-    - **Duration**: Aug 2023 – May 2026*   
-
----
-
-- **AISSCE (High School)**
-    - **Institution**: DAV Model School, Durgapur  
-    - **Grade**: 96% (Central Board of Secondary Education)  
-    - **Subjects**: Mathematics, Physics, Computer Science, Physical Education, English  
-    - **Duration**: Apr 2021 – Mar 2023  
-
----
-
-## Academic Achievements
-
-- Qualified for **JEE Advanced** — 96 percentile in JEE Mains (2023)  
-- **KVPY (now INSPIRE) Scholarship Fellow** — Department of Science and Technology, Govt. of India (2021)  
-- Passed **Indian Olympiad Qualifier for Mathematics** (or equivalent) — Mathematics Teachers’ Association of India (2020, 2019, 2018)  
-- Qualified for **Atmadeep** — Times of India (2018)  
-
-
-## Miscellaneous Skills
-
-### **Languages** 
-- **English, Bengali:** Working proficiency.
-- **Hindi:** Can read, write and speak
-
-### **Technical Skills**
-- **Programming Languages**: Python, C, R  
-- **Platforms**: LaTeX, SQL, HTML, Octave, Markdown, Mathematica, Julia
-
-### **Other Activities**
-- An active member of the **Chess Club** and **Movie Committee**, as well as volunteer for **Cultural Committee** and previously was a member of **Hostel Library Committe** in ISI Bangalore.
-- Was the **Discipline Captain (Boys)** in the Cabinet Council of DAV Model School, Durgapur.
-
-### **Hobbies**
-They are listed in details under my <a href="/blog/firstpost/#hobbies">introductory blog post</a>.
-
----
-
-## Self Studied Topics 
-- _Group Theory_ **"Visual Group Theory"** by Nathan Carter
-- _Neural ODE_ **"An introduction to Neural ODE"** by Pau Baldillou Salse
-- _Fuzzy_ **"Fuzzy Graph Theory"** by Sunil Matthew, John N. Mordeson & Davender S. Malik 
-- _Causal inference_ **"What if"** by Miguel A. Harnán & James M. Robins
-- _Knot Theory_ **"The Knot Book"** by Collin Addams, **"Knot Theory"** by Livingstone C.
-- _Game Theory_ **"Combinatorial Game Theory"** by Aaron N. Siegel, **"Winning Ways for Your Mathematical Plays"** by Elwyn R. Berlekamp, John H. Conway, Richard K. Guy
+<p>If you have any questions about the reading project or spot any mistakes in the lecture notes or problem sets, just let me know through these channels! Thanks:)</p>
+<ul>
+    <li><strong>Email</strong>: <a href="mailto:maltreanungkur@gmail.com">maltreanungkur@gmail.com</a></li>
+    <li><strong>WhatsApp</strong>: <a href="https://wa.me/918918517265">+91 8918517265</a></li>
+    <li><strong>Telegram</strong>: <a href="https://t.me/TreanungkurMal">@TreanungkurMal</a></li>
+</ul>
