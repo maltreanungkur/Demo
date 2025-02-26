@@ -64,7 +64,7 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="" header="1. Basics of Group Theory" badge="11/25" subheader="<b>Speaker</b>: Rinkiny Ghatak" >}}
+{{< timelineItem icon="" header="1. Basics of Group Theory" badge="11/25" subheader="Speaker: Rinkiny Ghatak" >}}
 
      In this lecture, Rinkiny covered the basics of group theory, including:<br>
      - Definition of Group.<br>
@@ -87,7 +87,7 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="" header="2. Group Actions and Their Applications" badge="11/29" subheader="<b>Speaker</b>: Treanungkur Mal" >}}
+{{< timelineItem icon="" header="2. Group Actions and Their Applications" badge="11/29" subheader="Speaker: Treanungkur Mal" >}}
 
      In this lecture, I have covered the idea of group action and solved some problems using group action, including:<br>
      - Recap of Previous Class.<br>
@@ -112,7 +112,7 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="" header="3. Introduction to GGT" badge="12/6" subheader="<b>Speaker</b>: Treanungkur Mal" >}}
+{{< timelineItem icon="" header="3. Introduction to GGT" badge="12/6" subheader="Speaker: Treanungkur Mal" >}}
 
      In this lecture, I covered the following topics and proved some theorems including:<br>
      - Basic notions of graph theory.<br>
@@ -132,37 +132,74 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="" header="4. First Properties of I.H. and I.H for Quasi projective Varites" badge="09/02" subheader="Trishan Mondal" >}}
-    Notes by me - <a href="./notes/talk5.pdf">Lecture 4</a>.<br>
-      In this talk, we will discuss the homological properties of intersection homology like pushforward maps, excision and Mayer-Vietoris. We will compute the intersection homology of cones. We then discuss Whitney stratifications for complex quasi-projective varieties and the associated pseudomanifold structure on their underlying topological space. We will conclude with a discussion of Poincaré duality, Lefschetz hyperplane and hard Lefschetz theorems in the context of intersection homology.
+{{< timelineItem icon="" header="4. Quasi-Isometry in GGT" badge="12/12" subheader="Speaker: Rinkiny Ghatak" >}}
+
+     In this lecture, Rinkiny covered the following topics:<br>
+     - Recalled the idea of the proof of Nielsen–Schreier Theorem.<br>
+     - Basic notions of metric spaces.<br>
+     - Path Metric on Groups.<br>
+     - Motivation and Definition of Quasi-Isometry.<br>
+     - Some Basic Examples and Proposition related to Quasi-Isometry.<br>
+     - Proof of \( \mathbb{R} \) and \( \mathbb{Z} \) being quasi-isometric.<br><br>
+
+     <b>Lecture Video</b>: <a href="https://drive.google.com/file/d/1l94EGwxxLWOdbs-V2hoBAZ6g906iHypS/view?usp=sharing">View</a><br>
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec4.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P4.pdf">Download</a><br>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="5. \(L^2\)- Cohomology and Intersection Cohomology." badge="16/02" subheader="Aaratrick Basu" >}}
-    Notes by Aaratrick - <a href="./notes/lec-5.pdf">Lecture 5</a>.<br>
-    We introduce \(L^2\)-cohomology of smooth manifolds with riemannian metric, which is closely related to de Rham cohomology. We will then discuss strong Hodge theorem and a conjecture of Cheeger about intersection cohomology and \(L^2\)-cohomology. In the case of complex projective varieties with simple singularities, we show that \(L^2\)-cohomology does coincide with its intersection cohomology. If time permits, we will discuss the relation between the \(L^2\)-cohomology of a locally symmetric space and the intersection cohomology of its Baily-Borel compactification.
+{{< timelineItem icon="" header="5. Problem Solving Session (PSS)" badge="12/13" subheader="Speaker: Treanungkur Mal" >}}
+
+     In this lecture, I did some problem-solving on group actions and discussed some ideas frequently used:<br>
+     - Identifying different quotient groups intuitively.<br>
+     - Formalizing different quotienting ideas using Isomorphism Theorems.<br>
+     - Quotienting on \( \mathbb{R}^2 \), while seeing it as a two-dimensional vector space.<br>
+     - Some examples of proofs based on group actions like: Cayley's Theorem, Group Action on Automorphism Groups of Certain Cayley Graphs, etc.<br><br>
+
+     <b>Lecture Video</b>: <a href="https://drive.google.com/file/d/1nkEFXV6pAxiCvuRYH6_eG4pTfTLnn5C7/view?usp=sharing">View</a><br>
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec5.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P5.pdf">Download</a><br>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="6. Sheaf theoretic Intersection homology" badge="24/02" subheader="Jishnu Biswas" >}}
-    In this talk, we sheafify the construction of the intersection homology we have seen so far by showing that it can be computed as the homology group of a certain complex of sheaves. As a consequence, it is shown that intersection homology is a topological invariant of a pseudomanifold, i.e, it does not depend on the choice of a stratification. This is done using Deligne's construction which given any stratification associates to a complex of sheaves, a new complex of sheaves. This construction is then applied to the complex computing intersection homology for the canonical (coarsest) stratification to derive the independence of stratification.
+{{< timelineItem icon="" header="6. Quasi-Isometry and Growth Functions" badge="12/16" subheader="Speaker: Rinkiny Ghatak" >}}
+
+     In this lecture, Rinkiny covered the following topics:<br>
+     - Defined QI(X) and proved that it forms the Quasi-isometry group.<br>
+     - Proved quasi-isometry of groups with different generating sets and related results.<br>
+     - Discussed relevant examples and additional properties.<br>
+     - Established the definition, examples, and equivalence of growth functions.<br><br>
+
+     <b>Lecture Video</b>: <a href="https://drive.google.com/file/d/1bCddzmznVKxXGA_iLL2bLxLrD_hDqzUr/view?usp=sharing">View</a><br>
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec6.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P6.pdf">Download</a><br>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="7. Continuation" badge="01/03" subheader="Jishnu Biswas,Trishan Mondal" >}}
-In this talk we will first look into The Kähler package, then we will get back proving the fact Intersection homology sheaf is invariant of stratification.
+{{< timelineItem icon="" header="7. Free Groups and the Nielsen–Schreier Theorem" badge="12/20" subheader="Speaker: Treanungkur Mal" >}}
+
+     In this lecture, I covered the following topics:<br>
+     - Group presentations, relators, and generators.<br>
+     - Some discussion on the Andrew–Curtis Conjecture.<br>
+     - Barycentric subdivision of Cayley graph of a group.<br>
+     - Tiling the Cayley graph of a given group.<br>
+     - Finding a "nice" tiling for \( \mathbb{F}_2 \) (also discussed how to handle the general case!).<br>
+     - Proving the Nielsen–Schreier Theorem using group action on trees.<br><br>
+
+     <b>Lecture Video</b>: <a href="https://drive.google.com/file/d/1YBqTe-ti4BcFMRfwXfJ3bmSPuVSqMRyn/view?usp=sharing">View</a><br>
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec7.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P7.pdf">Download</a><br>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="8. Perverse sheaves" badge="08/03" subheader="Animesh Renanse" >}}
- Notes by Animesh - <a href="./notes/lecture8.pdf">Lecture 5</a>.<br>
- Let X be an n-pseudomanifold. In the last two talks, we constructed the simplicial intersection complex of sheaves over X and showed that its hypercohomology is the intersection homology. Furthermore, it is completely characterized in the derived category by a list of axioms. Continuing with this, we will see that these axioms ensure that this complex is a perverse sheaf with a twist. We will see that the category of perverse sheaves enjoys special properties in the derived category; it is abelian and is closed under Verdier duality. Thinking of perverse sheaves as an enlargement of intersection homology with local coefficients, we will see that every perverse sheaf can be “approximated” by finitely many of them; that is, the category of perverse sheaves is artinian. We will end with some more remarks and examples from complex varieties.
+{{< timelineItem icon="" header="8. Quasi-Isometric Embedding of Groups" badge="12/23" subheader="Speaker: Rinkiny Ghatak" >}}
+
+     In this lecture, Rinkiny covered the following topics:<br>
+     - Basics of growth functions.<br>
+     - Quasi-isometric embedding of groups.<br>
+     - Briefing on the end of UDGRP presentation topics.<br><br>
+
+     <b>Lecture Video</b>: <a href="https://drive.google.com/file/d/1Da5TxMBAeMhojxqVU4fNGJHJHOYH-J9y/view?usp=sharing">View</a><br>
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec8.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P8.pdf">Download</a><br>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="8. Nearby and Vanishing cycle" badge="15/03" subheader="Raushon toor nair" >}}
-     We define nearby and vanishing cycles functors, associated with a function \(f: \mathbb{C}^n \to \mathbb{C}\), from the bounded derived category of constructible sheaves on \(\mathbb{C}^n\) to those on the special fiber of 0 of the function \(f\). We will then discuss the Beilinson-Bernstein-Deligne-Gabber decomposition theorem for intersection homology.
-{{< /timelineItem >}}
-
-
-{{< timelineItem icon="" header="9,10. Weil's conjecture for the singular case" badge="05/04, 12/04" subheader="Kannappan Sampath" >}}
-     We will introduce Weil's zeta function of a smooth projective variety over finite fields and Weil's conjectures about them. We will then explain how one could deduce these conjectures from a reasonable cohomology theory; we will then explain that such a cohomology theory with coefficients in \(\mathbb{Q}_p\) that is functorial for morphisms between smooth projective varieties cannot exist. We will then mention that \(\ell\)-adic etale cohomology (with ell not equal to p) is a Weil-cohomology theory. We will end by computing the "naive" zeta function of some explicit examples of singular varieties.
-{{< /timelineItem >}}
 
 
 {{< /timeline >}}
