@@ -68,7 +68,7 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 
      In this lecture, Rinkiny covered the basics of group theory, including:<br>
      - Definition of Group.<br>
-     - Examples of Group \( (\mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n) \).<br>
+     - Examples of Group \( (\mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n) \).
      - Subgroups.<br>
      - Group Presentations (Generators and Relators).<br>
      - Structure-preserving maps in Groups (Homomorphism and Isomorphism).<br>
