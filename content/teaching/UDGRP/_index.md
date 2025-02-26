@@ -6,6 +6,9 @@ description: "UDGRP 2024"
 date: 2024-11-28
 ---
 
+
+{{< katex >}}
+
 {{< lead >}}
 <div style="text-align: justify">Welcome to the Undergraduate Directed Group Reading Program (UDGRP) 2024! This year, we will explore Geometric Group Theory (GGT). 
 
@@ -41,7 +44,7 @@ Whereas I have tried to demonstrate how one can understand a complex group prese
 
 In this lecture, Rinkiny covered the basics of group theory, including:
 - Definition of Group.
-- Examples of Group $\left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right)$.
+- Examples of Group \\( \left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right) \\).
 - Subgroups.
 - Group Presentations (Generators and Relators).
 - Structure preserving maps in Groups (Homomorphism and Isomorphism).
@@ -77,7 +80,7 @@ In this lecture, I covered the idea of group action and solved some problems usi
 - Definition of Orbits and Stabilizer.  
 - The Orbit Stabilizer Theorem.
 - Cayley's Theorem (Only Statement).
-- Some examples of group action $\left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right)$.
+- Some examples of group action \\( \left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right) \\).
 
 **Lecture Video**: <a href="https://drive.google.com/file/d/15HMkkSBmOjMMYW94HgiuHWbCY3PVhSSD/view?usp=sharing">View</a><br>
 
