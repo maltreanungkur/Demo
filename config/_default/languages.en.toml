@@ -12,7 +12,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Treanungkur Mal"
-  image = "../assets/logo.jpg"
+  image = "../assets/img/logo.jpg"
   headline = "Undergraduate mathematics student at Indian Statistical Institute"
   bio = "Undergraduate Mathematics Student."
   links = [
