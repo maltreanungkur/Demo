@@ -105,7 +105,7 @@ In this lecture, I covered the following topics and proved some theorems includi
 - Generating sets of a group and group presentations.  
 - Cayley graphs with respect to generating sets.
 - Definition of Free groups.  
-- Group Action on Trees $\left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right)$.
+- Group Action on Trees \\( \left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right) \\).
 - Review of group actions and the induced homomorphism.  
 - Types of group actions, focusing on isometric actions on metric spaces.  
 - Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free.
@@ -131,7 +131,7 @@ In this lecture, Rinkiny covered the following topics:
 - Path Metric on Groups.
 - Motivation and Definition of Quasi-Isometry.
 - Some Basic Examples and Proposition related to Quasi-Isometry.
-- Proof of $\mathbb{R}$ and $\mathbb{Z}$ being quasi isometric.
+- Proof of \\( \mathbb{R} \\) and \\( \mathbb{Z} \\) being quasi isometric.
 
 **Lecture Video**: <a href="https://drive.google.com/file/d/1l94EGwxxLWOdbs-V2hoBAZ6g906iHypS/view?usp=sharing">View</a><br>
 
@@ -150,7 +150,7 @@ In this lecture, I did some problem solving on group actions and discussed some 
 
 - Identifying different quotient groups intuitively.  
 - Formalizing different quotienting ideas using Isomorphism Theorems.  
-- Quotienting on $\mathbb{R}^2$, while seeing it as a two-dimensional vector space.   
+- Quotienting on \\( \mathbb{R}^2 \\), while seeing it as a two-dimensional vector space.   
 - Some examples of proofs based on group actions like: Cayley's Theorem, Group Action on Automorphism Groups of Certain Cayley Graphs, etc.
 
 **Lecture Video**: <a href="https://drive.google.com/file/d/1nkEFXV6pAxiCvuRYH6_eG4pTfTLnn5C7/view?usp=sharing">View</a><br>
@@ -192,7 +192,7 @@ In this lecture, I covered the following topics:
 - Some discussion on the Andrew–Curtis Conjecture. 
 - Barycentric subdivision of Cayley graph of a group.  
 - Tiling the Cayley graph of a given group.  
-- Finding a "nice" tiling for $\mathbb{F}_2$ (also discussed how to handle the general case!).
+- Finding a "nice" tiling for \\( \mathbb{F}_2 \\) (also discussed how to handle the general case!).
 - Proving the Nielsen–Schreier Theorem using group action on trees.
 
 **Lecture Video**: <a href="https://drive.google.com/file/d/1YBqTe-ti4BcFMRfwXfJ3bmSPuVSqMRyn/view?usp=sharing">View</a><br>
@@ -239,15 +239,15 @@ As part of the final stage of the UDGRP program, students were given the opportu
 
 ## Student Presentations
 
-### 1. Group Presentations of  $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$
+### 1. Group Presentations of  \\( \text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z}) \\)
 
 **Date**: December 31, 2024.<br>
 **Speaker**: Arkaprovo Das. <br>
 
 In this session, Arkaprovo Das, from BMath 1st Year presented the following topics:  
   
-- Group presentations of $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$. 
-- Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
+- Group presentations of \\( \text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z}) \\). 
+- Explained the action of \\( \text{SL}_n(\mathbb{Z}) \\) on the Farey Graph.  
 - Constructed the Farey Graph and its relation to modular transformations.
 
 **Presentation Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes1.pdf">Download</a><br>
@@ -262,7 +262,7 @@ In this session, Arkaprovo Das, from BMath 1st Year presented the following topi
 In this session, V Sai Prabhav, from BMath 1st Year presented the following topics:  
 
 - Defined the Farey Graph.  
-- Discussed the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.
+- Discussed the action of \\( \text{SL}_n(\mathbb{Z}) \\) on the Farey Graph.
 - Constructed the Farey Graph.
 - Defined the Farey Tree using the Farey Complex.
 
@@ -279,7 +279,7 @@ In this session, Sayan Dewan, from BMath 1st Year presented the following topics
 
 - Stated the Ping Pong Lemma.
 - Proved the lemma.
-- Application of the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) $.
+- Application of the Ping Pong Lemma to \\( \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) \\).
 
 **Presentation Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes3.pdf">Download</a><br>
 
