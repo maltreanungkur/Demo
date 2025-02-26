@@ -64,25 +64,27 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="" header="1. Basics of Group Theory" badge="11/25" subheader="Rinkiny Ghatak" >}}
+{{< timelineItem icon="" header="1. Basics of Group Theory" badge="11/25" subheader="Lecture by Rinkiny Ghatak" >}}
+     <b>Date</b>: November 25, 2024.<br>
+     <b>Speaker</b>: Rinkiny Ghatak.<br><br>
 
-   In this lecture, Rinkiny covered the fundamentals of group theory, including:  
-   - Definition of a Group.  
-   - Examples of Groups \( \left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right) \).  
-   - Subgroups.  
-   - Group Presentations (Generators and Relators).  
-   - Structure-preserving maps in Groups (Homomorphism and Isomorphism).  
-   - Normal Subgroups and Cosets.  
-   - Kernel and Image of a Homomorphism.  
-   - The First Isomorphism Theorem.  
-   <br>
+     In this lecture, Rinkiny covered the basics of group theory, including:<br>
+     - Definition of Group.<br>
+     - Examples of Group \( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \).<br>
+     - Subgroups.<br>
+     - Group Presentations (Generators and Relators).<br>
+     - Structure-preserving maps in Groups (Homomorphism and Isomorphism).<br>
+     - Normal Subgroups and Cosets.<br>
+     - Kernel and Image of a Homomorphism.<br>
+     - The 1st Isomorphism Theorem.<br><br>
 
-   **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf) <br>
-   **Introductory Slides**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/Intro.pdf) <br>
-   **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
-   **Chocolate Problem's Solution** (by Nikhil Nagaria): [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf) <br>
-   **Correct Submissions to the Chocolate Problem** (Lexicographical Order):  
-   Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sai Prabhav, Sarvesh Soni, Shankha Suvra Dam.  
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf">Download</a><br>
+     <b>Introductory Slides</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/Intro.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf">Download</a><br>
+     <b>Chocolate Problem's Solution</b> (by Nikhil Nagaria): <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf">Download</a><br><br>
+
+     <b>Correct Submissions to the Chocolate Problem</b> (Lexicographical Order):<br>
+     Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sai Prabhav, Sarvesh Soni, Shankha Suvra Dam.<br>
 {{< /timelineItem >}}
 
 
