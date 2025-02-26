@@ -8,6 +8,7 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+copyright = "&copy; 2025 Treanungkur Mal"
 
 [author]
   name = "Treanungkur Mal"
