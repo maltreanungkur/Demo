@@ -293,7 +293,7 @@ In this session, Sayan Dewan, from BMath 1st Year presented the following topics
 In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following topics:  
 
 - Defining rays on a metric space, equivalence of rays.  
-- Proving that $\mathbb{R}$ has two ends.  
+- Proving that \\( \mathbb{R} \\) has two ends.  
 - Quasi-isometric proper and geodesic metric spaces have isomorphic ends.  
 - Discussed amalgamated products and some theorems related to these topics.
 
