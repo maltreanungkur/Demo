@@ -310,5 +310,3 @@ In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following to
 1. <a href="https://rksmvv.ac.in/wp-content/uploads/2021/04/David_S_Dummit_Richard_M_Foote_Abstract_Algeb_230928_225848.pdf">D. S. Dummit, R. M. Foote, *Abstract Algebra*</a>
 2. <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/rotman.pdf">J. J. Rotman, *An Introduction to the Theory of Groups*</a>
 <br>
-
----
