@@ -9,11 +9,11 @@ sharinglinks: [""]
 
 ## Short CV
 
-- (2021-present) **B.Math** at *Indian Statistical Institute*.
+- (2023-present) **B.Math** at *Indian Statistical Institute, Bangalore*.
 
-- (2019-2021)    **Higher secondery** at *Nirmal Hriday Ashram Boys' High school*.
+- (2021-2023)    **Higher secondery** at *Ideal Public School, Howrah*.
 
-- (2013-2019)   **Secondery** at *Nirmal Hriday Ashram Boys' High school*.
+- (2015-2021)   **Secondery** at *Ideal Public School, Howrah*.
 
 ## Contact Information
 
