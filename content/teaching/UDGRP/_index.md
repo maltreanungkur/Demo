@@ -64,13 +64,11 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="" header="1. Basics of Group Theory" badge="11/25" subheader="Lecture by Rinkiny Ghatak" >}}
-     <b>Date</b>: November 25, 2024.<br>
-     <b>Speaker</b>: Rinkiny Ghatak.<br><br>
+{{< timelineItem icon="" header="1. Basics of Group Theory" badge="11/25" subheader="<b>Speaker</b>: Rinkiny Ghatak" >}}
 
      In this lecture, Rinkiny covered the basics of group theory, including:<br>
      - Definition of Group.<br>
-     - Examples of Group \( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \).<br>
+     - Examples of Group \( (\mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n) \).<br>
      - Subgroups.<br>
      - Group Presentations (Generators and Relators).<br>
      - Structure-preserving maps in Groups (Homomorphism and Isomorphism).<br>
@@ -85,19 +83,54 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 
      <b>Correct Submissions to the Chocolate Problem</b> (Lexicographical Order):<br>
      Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sai Prabhav, Sarvesh Soni, Shankha Suvra Dam.<br>
+
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="" header="2. Review Talk" badge="19/1" subheader="Prognadipto Majumdar and Eeshan Pandey" >}}
-     Notes by me (Latexed)- <a href="./notes/prereq.pdf">Prerequisites</a>.<br>
+{{< timelineItem icon="" header="2. Group Actions and Their Applications" badge="11/29" subheader="<b>Speaker</b>: Treanungkur Mal" >}}
 
-     In this lecture we will cover some prerequisite needed for this seminar like, review of singular, simplicial, Borel-Moore (co)homology etc and then Sheaf theory, sheaf cohomology (both from resolution and Derived functor point of view), cech cohomology, their relations (in some case). <br>
+     In this lecture, I have covered the idea of group action and solved some problems using group action, including:<br>
+     - Recap of Previous Class.<br>
+     - Idea of Quotienting Groups.<br>
+     - Applications of the 1st Isomorphism Theorem.<br>
+     - Motivation for Group Action.<br>
+     - Definition of Group Action.<br>
+     - Some Valid Group Actions.<br>
+     - Definition of Orbits and Stabilizer.<br>
+     - The Orbit Stabilizer Theorem.<br>
+     - Cayley's Theorem (Only Statement).<br>
+     - Some examples of group action \( \left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right) \).<br><br>
+
+     <b>Lecture Video</b>: <a href="https://drive.google.com/file/d/15HMkkSBmOjMMYW94HgiuHWbCY3PVhSSD/view?usp=sharing">View</a><br>
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec2.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P2.pdf">Download</a><br>
+     <b>Chocolate Problem's Solution</b> (by Sai Prabhav): <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/SaiP.pdf">Download</a><br><br>
+
+     <b>Correct Submissions to the Chocolate Problem</b> (Lexicographical Order):<br>
+     Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Sai Prabhav, Sarvesh Soni.<br>
+
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="3. Pseudomanifold and Intersection Homology" badge="02/02" subheader="Soumya Dasgupta" >}}
-    Notes by Soumya - <a href="./notes/IH_notes.pdf">Lecture-3</a>.<br>
-     Introduction to stratified spaces, Psudomanifold, Perversity and `Intersection Homology' with examples. Heading towards resolving Poincare duality - Normalization of topological spaces.
+
+{{< timelineItem icon="" header="3. Introduction to GGT" badge="12/6" subheader="<b>Speaker</b>: Treanungkur Mal" >}}
+
+     In this lecture, I covered the following topics and proved some theorems including:<br>
+     - Basic notions of graph theory.<br>
+     - Generating sets of a group and group presentations.<br>
+     - Cayley graphs with respect to generating sets.<br>
+     - Definition of Free groups.<br>
+     - Group Action on Trees \( \left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right) \).<br>
+     - Review of group actions and the induced homomorphism.<br>
+     - Types of group actions, focusing on isometric actions on metric spaces.<br>
+     - Isometric and free group actions on \( \mathbb{R}^n \Rightarrow \) torsion-free.<br>
+     - Brief Idea for the proof of Nielsen–Schreier Theorem.<br><br>
+
+     <b>Lecture Video</b>: <a href="https://drive.google.com/file/d/1kk1QPkq3g1NJeBzjdx2nwxBRt253eypG/view?usp=sharing">View</a><br>
+     <b>Lecture Notes</b>: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf">Download</a><br>
+     <b>Problem Set</b>: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P3.pdf">Download</a><br>
+
 {{< /timelineItem >}}
+
 
 {{< timelineItem icon="" header="4. First Properties of I.H. and I.H for Quasi projective Varites" badge="09/02" subheader="Trishan Mondal" >}}
     Notes by me - <a href="./notes/talk5.pdf">Lecture 4</a>.<br>
