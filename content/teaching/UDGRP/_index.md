@@ -56,13 +56,33 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 
 {{< timeline >}}
 
-{{< timelineItem icon="" header="0. Introductory Talk" badge="10/19" subheader="Talk by Rinkiny Ghatak and Treanungkur Mal" >}}
-   **Date**: October 19, 2024. <br>
-   **Speakers**: Rinkiny Ghatak and Treanungkur Mal. <br><br>
+{{< timelineItem icon="" header="0. Introductory Talk" badge="10/19" subheader="Rinkiny Ghatak and Treanungkur Mal" >}}
    
    Rinkiny introduced the definition of a group with examples and discussed free groups. She examined the structure of Cayley graphs, particularly how they represent free groups, and concluded with the group presentation of the Lamplighter Group. <br><br>
 
    I demonstrated how complex group presentations, like the Lamplighter Group, can be understood using the analogy of street lamps. The intricate presentation reduces to switching finitely many lamps on an infinite street. I also briefly introduced group actions, as they will be central to our study.  
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="" header="1. Basics of Group Theory" badge="11/25" subheader="Rinkiny Ghatak" >}}
+
+   In this lecture, Rinkiny covered the fundamentals of group theory, including:  
+   - Definition of a Group.  
+   - Examples of Groups \( \left( \mathbb{Z}, \mathbb{Z}/n\mathbb{Z}, \text{GL}_n(\mathbb{R}), \text{SL}_n(\mathbb{R}), S_n \right) \).  
+   - Subgroups.  
+   - Group Presentations (Generators and Relators).  
+   - Structure-preserving maps in Groups (Homomorphism and Isomorphism).  
+   - Normal Subgroups and Cosets.  
+   - Kernel and Image of a Homomorphism.  
+   - The First Isomorphism Theorem.  
+   <br>
+
+   **Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf) <br>
+   **Introductory Slides**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/Intro.pdf) <br>
+   **Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
+   **Chocolate Problem's Solution** (by Nikhil Nagaria): [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf) <br>
+   **Correct Submissions to the Chocolate Problem** (Lexicographical Order):  
+   Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sai Prabhav, Sarvesh Soni, Shankha Suvra Dam.  
 {{< /timelineItem >}}
 
 
