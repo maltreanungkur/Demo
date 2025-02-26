@@ -12,7 +12,7 @@ copyright = "&copy; 2025 Treanungkur Mal"
 
 [params.author]
   name = "Treanungkur Mal"
-  image = "../assets/img/logo.jpg"
+  image = "img/logo.jpg"
   headline = "Undergraduate mathematics student at Indian Statistical Institute"
   bio = "Undergraduate Mathematics Student."
   links = [
