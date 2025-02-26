@@ -8,6 +8,9 @@ showDate: false
 showDateOnlyInArticle: false
 showDateUpdated: false
 showAuthorBadges: false
+sidebar:
+  open: true
+math: true
 ---
 
 {{< lead >}}
