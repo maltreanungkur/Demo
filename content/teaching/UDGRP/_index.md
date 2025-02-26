@@ -38,7 +38,16 @@ showPagination: false
 </body>
 </html>
 
-<a style= "font-family: 'Bebas'; color: white; font-size: 15pt">This is a reading seminar organized by professors of Algebraic depertment. In this seminar we will learn about</a> *Intersection homology* <a style= "font-family: 'Bebas'; color: white; font-size: 15pt">and</a> *Perverse Sheaves* <a style= "font-family: 'Bebas'; color: white; font-size: 15pt">from the book of</a> *Kirwan and Wolf*.
+<a style= "font-family: 'Bebas'; color: white; font-size: 15pt">Welcome to the Undergraduate Directed Group Reading Program (UDGRP) 2024! This year, we will explore Geometric Group Theory (GGT). 
+
+In the initial lectures, we’ll review basic group theory concepts and provide problem sets periodically. Please make a sincere effort to solve them, as this practice will prove invaluable in the long run. If you have any doubts, feel free to reach out to any of the instructors—we’re here to help!
+
+To make things more engaging, we’ll introduce a "Chocolate Problem" at the end of each class. Anyone who provides a meaningful attempt—be it partial, intuitive, or without a rigorous proof—will be rewarded with chocolates! (Sadly, we can’t hand out Fields Medals, but hey, chocolates are a good start, right?)
+
+Our goal with this approach is to encourage you to engage with the material actively. Mathematics is a discipline where simply knowing the theory isn’t enough—you must learn how to apply it effectively. And the best way to do so? Solve as many problems as possible!
+
+You’ll find all the lecture notes and problem sets on this website. If you miss a lecture, don’t worry—we’ll keep everything updated here so you can catch up.
+
 
 
 <center>
