@@ -1,5 +1,5 @@
 ---
-title: "Intersection Homology"
+title: "Geometric Group Theory"
 draft: false
 showDate: false
 cardView: true
@@ -51,14 +51,20 @@ You’ll find all the lecture notes and problem sets on this website. If you mis
 
 
 <center>
-   <a style= "font-family: 'Bebas'; font-variant: small-caps; color: white; font-size: 21pt"> Schedule</a>
+   <a style="font-family: 'Bebas'; font-variant: small-caps; color: white; font-size: 21pt"> Introductory Talk </a>
 </center>
 
 {{< timeline >}}
 
-{{< timelineItem icon="" header="1. Overview Talk" badge="12/1" subheader="Overview talk by Prof. Suresh Nayak" >}}
-     Notes taken by me (Latexed) - <a href="./notes/overview.pdf"> Overview Talk </a>.
+{{< timelineItem icon="" header="0. Introductory Talk" badge="10/19" subheader="Talk by Rinkiny Ghatak and Treanungkur Mal" >}}
+   **Date**: October 19, 2024. <br>
+   **Speakers**: Rinkiny Ghatak and Treanungkur Mal. <br><br>
+   
+   Rinkiny introduced the definition of a group with examples and discussed free groups. She examined the structure of Cayley graphs, particularly how they represent free groups, and concluded with the group presentation of the Lamplighter Group. <br><br>
+
+   I demonstrated how complex group presentations, like the Lamplighter Group, can be understood using the analogy of street lamps. The intricate presentation reduces to switching finitely many lamps on an infinite street. I also briefly introduced group actions, as they will be central to our study.  
 {{< /timelineItem >}}
+
 
 {{< timelineItem icon="" header="2. Review Talk" badge="19/1" subheader="Prognadipto Majumdar and Eeshan Pandey" >}}
      Notes by me (Latexed)- <a href="./notes/prereq.pdf">Prerequisites</a>.<br>
