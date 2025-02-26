@@ -117,3 +117,7 @@ cardViewScreenWidth = false
 [verification]
 
 [rssnext]
+
+# Custom CSS for Table of Contents
+[customCSS]
+tocMarginLeft = "20px" # Adjust this value to shift the TOC
