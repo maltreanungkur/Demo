@@ -53,13 +53,13 @@ In this lecture, Rinkiny covered the basics of group theory, including:
 - Kernel and Image of a Homomorphism.
 - The 1st Isomorphism Theorem.
 
-**Lecture Notes**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf)<br>
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec1.pdf">Download</a><br>
 
-**Introductory Slides**: [Download](https://github.com/maltreanungkur/web/raw/main/documents/Intro.pdf)<br>
+**Introductory Slides**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/Intro.pdf">Download</a><br>
 
-**Problem Set**: [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf) <br>
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P1.pdf">Download</a><br>
 
-**Chocolate Problem's Solution** (by Nikhil Nagaria): [Download](https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf) <br>
+**Chocolate Problem's Solution** (by Nikhil Nagaria): <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/Nikhil.pdf">Download</a><br>
 
 **Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Payal Rajora, Ramdas Singh, Sai Prabhav, Sarvesh Soni, Shankha Suvra Dam.
 
@@ -77,4 +77,242 @@ In this lecture, I covered the idea of group action and solved some problems usi
 - Applications of the 1st Isomorphism Theorem.
 - Motivation for Group Action.
 - Definition of Group Action.  
-- Some Valid
+- Some Valid Group Actions.  
+- Definition of Orbits and Stabilizer.  
+- The Orbit Stabilizer Theorem.
+- Cayley's Theorem (Only Statement).
+- Some examples of group action $\left( \mathrm{SO}(2, \mathbb{R}) \text{ acts on } \mathbb{R}^2 \right)$.
+
+**Lecture Video**: <a href="https://drive.google.com/file/d/15HMkkSBmOjMMYW94HgiuHWbCY3PVhSSD/view?usp=sharing">View</a><br>
+
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec2.pdf">Download</a><br>
+
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P2.pdf">Download</a><br>
+
+**Chocolate Problem's Solution** (by Sai Prabhav): <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/SaiP.pdf">Download</a><br>
+
+**Correct Submissions to the Chocolate Problem** (Lexicographical Order): Arkaprovo Das, Daibik Barik, Nikhil Nagaria, Sai Prabhav, Sarvesh Soni.
+
+---
+
+### 3. Introduction to GGT
+
+**Date**: December 6, 2024.<br>
+**Speaker**: Treanungkur Mal. <br>
+
+In this lecture, I covered the following topics and proved some theorems including:  
+
+- Basic notions of graph theory.
+- Generating sets of a group and group presentations.  
+- Cayley graphs with respect to generating sets.
+- Definition of Free groups.  
+- Group Action on Trees $\left(\mathbb{F}_2 \text{ acts on } \Gamma(G, S) \right)$.
+- Review of group actions and the induced homomorphism.  
+- Types of group actions, focusing on isometric actions on metric spaces.  
+- Isometric and free group actions on $\mathbb{R}^n$ $\implies$ torsion-free.
+- Brief Idea for the proof of Nielsen–Schreier Theorem.
+
+**Lecture Video**: <a href="https://drive.google.com/file/d/1kk1QPkq3g1NJeBzjdx2nwxBRt253eypG/view?usp=sharing">View</a><br>
+
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec3.pdf">Download</a><br>
+
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P3.pdf">Download</a><br>
+
+---
+
+### 4. Quasi-Isometry in GGT
+
+**Date**: December 12, 2024.<br>
+**Speaker**: Rinkiny Ghatak. <br>
+
+In this lecture, Rinkiny covered the following topics:  
+
+- Recalled the idea of the proof of Nielsen–Schreier Theorem.
+- Basic notions of metric spaces.
+- Path Metric on Groups.
+- Motivation and Definition of Quasi-Isometry.
+- Some Basic Examples and Proposition related to Quasi-Isometry.
+- Proof of $\mathbb{R}$ and $\mathbb{Z}$ being quasi isometric.
+
+**Lecture Video**: <a href="https://drive.google.com/file/d/1l94EGwxxLWOdbs-V2hoBAZ6g906iHypS/view?usp=sharing">View</a><br>
+
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec4.pdf">Download</a><br>
+
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P4.pdf">Download</a><br>
+
+---
+
+### 5. Problem Solving Session (PSS)
+
+**Date**: December 13, 2024.<br>
+**Speaker**: Treanungkur Mal. <br>
+
+In this lecture, I did some problem solving on group actions and discussed some ideas frequently used:
+
+- Identifying different quotient groups intuitively.  
+- Formalizing different quotienting ideas using Isomorphism Theorems.  
+- Quotienting on $\mathbb{R}^2$, while seeing it as a two-dimensional vector space.   
+- Some examples of proofs based on group actions like: Cayley's Theorem, Group Action on Automorphism Groups of Certain Cayley Graphs, etc.
+
+**Lecture Video**: <a href="https://drive.google.com/file/d/1nkEFXV6pAxiCvuRYH6_eG4pTfTLnn5C7/view?usp=sharing">View</a><br>
+
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec5.pdf">Download</a><br>
+
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P5.pdf">Download</a><br>
+
+---
+
+### 6. Quasi-Isometry and Growth Functions
+
+**Date**: December 16, 2024.<br>
+**Speaker**: Rinkiny Ghatak. <br>
+
+In this lecture, Rinkiny covered the following topics:  
+
+- Defined QI(X) and proved that it forms the Quasi-isometry group.
+- Proved quasi-isometry of groups with different generating sets and related results.  
+- Discussed relevant examples and additional properties.  
+- Established the definition, examples, and equivalence of growth functions.
+
+**Lecture Video**: <a href="https://drive.google.com/file/d/1bCddzmznVKxXGA_iLL2bLxLrD_hDqzUr/view?usp=sharing">View</a><br>
+
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec6.pdf">Download</a><br>
+
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P6.pdf">Download</a><br>
+
+---
+
+### 7. Free Groups and the Nielsen–Schreier Theorem
+
+**Date**: December 20, 2024.<br>
+**Speaker**: Treanungkur Mal. <br>
+
+In this lecture, I covered the following topics:  
+
+- Group presentations, relators, and generators.  
+- Some discussion on the Andrew–Curtis Conjecture. 
+- Barycentric subdivision of Cayley graph of a group.  
+- Tiling the Cayley graph of a given group.  
+- Finding a "nice" tiling for $\mathbb{F}_2$ (also discussed how to handle the general case!).
+- Proving the Nielsen–Schreier Theorem using group action on trees.
+
+**Lecture Video**: <a href="https://drive.google.com/file/d/1YBqTe-ti4BcFMRfwXfJ3bmSPuVSqMRyn/view?usp=sharing">View</a><br>
+
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec7.pdf">Download</a><br>
+
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P7.pdf">Download</a><br>
+
+---
+
+### 8. Quasi-Isometric Embedding of Groups
+
+**Date**: December 23, 2024.<br>
+**Speaker**: Rinkiny Ghatak. <br>
+
+In this lecture, Rinkiny covered the following topics:  
+
+- Basics of growth functions. 
+- Quasi-isometric embedding of groups.   
+- Briefing on the end of UDGRP presentation topics.
+
+**Lecture Video**: <a href="https://drive.google.com/file/d/1Da5TxMBAeMhojxqVU4fNGJHJHOYH-J9y/view?usp=sharing">View</a><br>
+
+**Lecture Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Lec8.pdf">Download</a><br>
+
+**Problem Set**: <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/GGT_P8.pdf">Download</a><br>
+
+---
+
+## End of UDGRP: Presentation Topics  
+
+As part of the final stage of the UDGRP program, students were given the opportunity to present on the following topics:  
+
+- **The Farey Tree** – Refer to <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/OHGGT.pdf">*Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 3</a>.  
+- **Ping Pong Lemma and its applications** – Refer to <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/OHGGT.pdf">*Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 5</a>.  
+  - Additional references:  
+    1. <a href="https://capsncrunch.github.io/articles/the_ping_pong_lemma.html">The Ping Pong Lemma</a>  
+    2. <a href="https://chiasme.wordpress.com/2015/03/08/an-elementary-application-of-ping-pong-lemma/">An Elementary Application of the Ping Pong Lemma</a>  
+- **Lamplighter Group** – Refer to <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/OHGGT.pdf">*Office Hours with a Geometric Group Theorist* by Matt Clay and Dan Margalit, Chapter 15</a>.  
+- **Ends of Group** – Refer to <a href="https://www.cambridge.org/core/books/metric-spaces-of-nonpositive-curvature/9E6D1F7C57B30B2616A0A0E1DBE03F5B">*Metric Spaces of Non-Positive Curvature* by Martin R. Bridson and André Haefliger, Pages 142–148</a>.  
+- **The Hyperbolic Plane** – Refer to <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/OHGGT.pdf">*Low-Dimensional Geometry* by Francis Bonahon, Chapter 2</a>.  
+
+---
+
+## Student Presentations
+
+### 1. Group Presentations of  $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$
+
+**Date**: December 31, 2024.<br>
+**Speaker**: Arkaprovo Das. <br>
+
+In this session, Arkaprovo Das, from BMath 1st Year presented the following topics:  
+  
+- Group presentations of $\text{PSL}_2(\mathbb{Z})  \text{ and }  \text{SL}_2(\mathbb{Z})$. 
+- Explained the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.  
+- Constructed the Farey Graph and its relation to modular transformations.
+
+**Presentation Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes1.pdf">Download</a><br>
+
+---
+
+### 2. Group Action on Farey Tree
+
+**Date**: December 31, 2024.<br>
+**Speaker**: V Sai Prabhav. <br>
+
+In this session, V Sai Prabhav, from BMath 1st Year presented the following topics:  
+
+- Defined the Farey Graph.  
+- Discussed the action of $\text{SL}_n(\mathbb{Z})$ on the Farey Graph.
+- Constructed the Farey Graph.
+- Defined the Farey Tree using the Farey Complex.
+
+**Presentation Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes2.pdf">Download</a><br>
+
+---
+
+### 3. Ping Pong Lemma and its Application
+
+**Date**: January 4, 2025.<br>
+**Speaker**: Sayan Dewan. <br>
+
+In this session, Sayan Dewan, from BMath 1st Year presented the following topics:  
+
+- Stated the Ping Pong Lemma.
+- Proved the lemma.
+- Application of the Ping Pong Lemma to $ \mathbb{Z} * 2\mathbb{Z},  \mathbb{Z} * \mathbb{Z}, \text {and } \text{SL}_2(\mathbb{Z}) $.
+
+**Presentation Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes3.pdf">Download</a><br>
+
+---
+
+### 4. Ends of Group
+
+**Date**: January 15, 2025.<br>
+**Speaker**: Nikhil Nagaria. <br>
+
+In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following topics:  
+
+- Defining rays on a metric space, equivalence of rays.  
+- Proving that $\mathbb{R}$ has two ends.  
+- Quasi-isometric proper and geodesic metric spaces have isomorphic ends.  
+- Discussed amalgamated products and some theorems related to these topics.
+
+**Presentation Notes**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes4.pdf">Download</a><br>
+
+**Presentation Scribbles**: <a href="https://github.com/maltreanungkur/web/raw/main/documents/GGT_Pes4(a).pdf">Download</a><br>
+
+---
+
+## References
+
+### Reading (For Geometric Group Theory)
+1. <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/OHGGT.pdf">M. Clay, D. Margalit, *Office Hours with a Geometric Group Theorist*</a>
+2. <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/clara.pdf">C. Löh, *Geometric Group Theory*</a>
+
+### Further Reading (For Basic Group Theory)
+1. <a href="https://rksmvv.ac.in/wp-content/uploads/2021/04/David_S_Dummit_Richard_M_Foote_Abstract_Algeb_230928_225848.pdf">D. S. Dummit, R. M. Foote, *Abstract Algebra*</a>
+2. <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/rotman.pdf">J. J. Rotman, *An Introduction to the Theory of Groups*</a>
+<br>
+
+---
