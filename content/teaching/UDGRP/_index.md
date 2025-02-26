@@ -4,6 +4,13 @@ weight: 10
 draft: false
 description: "UDGRP 2024"
 date: 2024-11-28
+weight: 20
+draft: false
+description: "Details about me, myself and I"
+showAuthor: false
+showDateOnlyInArticle: false
+showDateUpdated: false
+showAuthorBadges: false
 ---
 
 
