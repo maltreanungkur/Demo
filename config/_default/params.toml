@@ -117,3 +117,7 @@ cardViewScreenWidth = false
 [verification]
 
 [rssnext]
+
+# Sidebar Configuration
+showSidebar = true # Enable the sidebar
+sidebarPosition = "left" # valid options: left or right
