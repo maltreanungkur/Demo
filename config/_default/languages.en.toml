@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 copyright = "&copy; 2025 Treanungkur Mal"
 
-[author]
+[params.author]
   name = "Treanungkur Mal"
   image = "../assets/img/logo.jpg"
   headline = "Undergraduate mathematics student at Indian Statistical Institute"
