@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Teaching"
 description: "Updates on mathematical activities at Indian Statistical Institute, Bangalore"
 ---
 {{< katex >}}

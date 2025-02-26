@@ -8,9 +8,7 @@ showDate: false
 showDateOnlyInArticle: false
 showDateUpdated: false
 showAuthorBadges: false
-sidebar:
-  open: true
-math: true
+date: 2024-11-28
 ---
 
 {{< lead >}}
