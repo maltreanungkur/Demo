@@ -53,10 +53,10 @@ But what does that actually mean? Well, if we lift the equation we got in \\(R\\
 \\sum\\limits_{i=1}^{n+1} u_i x^{p_i} = f g.
 \\]
 
-Now, there’s just one last detail: we need to make sure everything is in \\( \\mathbb{Z}[x] \\). To do that, just multiply through by the least common multiple of the denominators of the coefficients of \\( g \\), and boom we get:
+Now, there’s just one last detail: we need to make sure everything is in \\( \\mathbb{Z}[x] \\). To do that, just multiply through by the least common multiple of the denominators of the coefficients of \\( g \\) and \\(u_i\\), and boom we get:
 
 \\[
 fg = \\sum\\limits_{i=1}^{n+1} c_i x^{p_i},
 \\]
 
-for some integers \\( c_i \\). And that’s it! A super clean solution, but the trick is sneaky. Hope you enjoyed this one!
+for some integers \\( c_i \\). And that’s it! A super clean solution, but the trick is sneaky. Hope you enjoyed this one! See you in my next post! Bye :)
