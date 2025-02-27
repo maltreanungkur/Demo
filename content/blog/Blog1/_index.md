@@ -23,7 +23,7 @@ I hope the problem statement is clear! Let’s dive into the solution.
 
 ### Solution  
 
-Alright, so what’s the trick? The first thing to notice is that the specific prime numbers \\( \\{ p_1, \\dots, p_{n+1} \\} \\) don’t actually matter—they’re just there to distract you! The statement holds for any \\( n+1 \\) distinct numbers, so don’t overthink about those primes.  
+Alright, so what’s the trick? The first thing to notice is that the specific prime numbers \\( \\{ p_1, \\dots, p_{n+1} \\} \\) don’t actually matter—they’re just there to distract you! The statement holds for any \\( n+1 \\) distinct numbers, so don’t overthink about those primes 
 
 The way to attack this problem is to consider the quotient ring:  
 
