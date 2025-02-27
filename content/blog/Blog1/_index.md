@@ -19,7 +19,7 @@ This is an interesting question from my BMath Ring Theory course, which was taug
 fg = \\sum\\limits_{i=1}^{n+1} c_i x^{p_i}  \quad \text{for }c_i \text{ in } \mathbb{Z}
 \\]
 
-I hope the problem statement is clear! Please give it a honest try, and once you are done, the solution is all yours!  
+I hope that the problem statement is clear! Please give it a honest try, and once you are done, the solution is all yours!  
 
 ---  
 
