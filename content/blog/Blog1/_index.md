@@ -11,11 +11,11 @@ background: ../assets/profile.jpg
 
 ## Problem
 
-This is an interesting question from my BMath Ring Theory course, which was taught by <a href="https://www.isibang.ac.in/~sury/" target="_blank">Prof. B. Sury</a>. The course had way too many interesting problems and clever ideas—some really wild ones, actually—but this question is special. You can explain it to high schoolers, and yet, the solution is super slick! Thanks again to Prof. B. Sury for sharing this in class.  
+This is an interesting question from my BMath Ring Theory course, which was taught by <a href="https://www.isibang.ac.in/~sury/" target="_blank">Prof. B. Sury</a>. The course had way too many interesting problems and clever ideas, tbh some of them are really wild ones, but this question is special, beacuse you can explain it to even high schoolers, and yet, the solution is super slick! Thanks again to Prof. B. Sury for sharing this in class.  
 
 \\( \textbf{Question:} \\) Let \\( f \in \mathbb{Z}[x] \\) be a polynomial of degree \\( n > 0 \\). Pick \\( n+1 \\) distinct prime numbers, say \\( p_1, \dots, p_{n+1}\\). Show that there exists a polynomial \\( g \in \mathbb{Z}[x] \\) such that  
 
-\\( fg = \\sum\\limits_{i=1}^{n+1} c_i x^{p_i}  \quad \text{fo }c_i \text{in } \mathbb{Z}\\)
+\\( fg = \\sum\\limits_{i=1}^{n+1} c_i x^{p_i}  \quad \text{for }c_i \text{ in } \mathbb{Z}\\)
 
 I hope the problem statement is clear! Let’s dive into the solution.  
 
@@ -57,6 +57,4 @@ Now, there’s just one last detail: we need to make sure everything is in \\( \
 fg = \\sum\\limits_{i=1}^{n+1} c_i x^{p_i},
 \\]
 
-for some integers \\( c_i \\).  
-
-And that’s it! A super clean solution, but the trick is sneaky. Hope you enjoyed this one!
+for some integers \\( c_i \\). And that’s it! A super clean solution, but the trick is sneaky. Hope you enjoyed this one!
