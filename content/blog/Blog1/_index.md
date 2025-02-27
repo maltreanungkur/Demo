@@ -40,11 +40,11 @@ Now, since \\( f \\) has degree \\( n \\), the space \\( R \\) has dimension \\(
 Thus, a natural basis for \\( R \\) is \\( \\{ \\overline{1}, \\overline{x}, \\dots, \\overline{x^{n-1}} \\} \\). Now, look at the set \\( \\{ \\overline{x^{p_1}}, \\overline{x^{p_2}}, \\dots, \\overline{x^{p_{n+1}}} \\} \\), this is an \\( n+1 \\) element set inside an \\( n \\)-dimensional vector space, that's one more than the \\( \\dim R \\), so it *has* to be linearly dependent set! That means there exist some \\( u_i \\in \\mathbb{Q} \\) such that  
 
 \\[
-\\sum\\limits_{i=1}^{n+1} u_i \\overline{x^{p_i}} = 0 \\quad \\text{in } R.
+\\sum\\limits_{i=1}^{n+1} u_i \\overline{x^{p_i}} = 0 \\quad \\text{in } R,
 \\]
 
 \\[
-\\implies \\sum\\limits_{i=1}^{n+1} u_i \\overline{x^{p_i}} = \\overline{0}
+\\implies \\sum\\limits_{i=1}^{n+1} u_i \\overline{x^{p_i}} = \\overline{0}.
 \\]
 
 But what does that actually mean? Well, if we lift the equation we got in \\(R\\) to \\( \\mathbb{Q}[x] \\), we get that there's some polynomial \\( g \\in \\mathbb{Q}[x] \\) such that  
