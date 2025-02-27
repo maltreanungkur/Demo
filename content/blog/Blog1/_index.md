@@ -1,9 +1,9 @@
 ---
-title: "The Music of Spheres"
+title: "Beauty of Ring Theory"
 description: "We are going to dive into the world of stable homotopy theory."
-date:  2024-03-17
+date:  2025-02-27
 comment: true
-categories: [algebraic topology]
+categories: [Ring Thoery]
 background: ../assets/profile.jpg
 ---
 
@@ -11,8 +11,12 @@ background: ../assets/profile.jpg
 
 ## Introduction
 
-In an introductory course on algebraic topology, one encounters fundamental groups as robust topological invariants. Homotopy groups naturally extend this notion. The functor 
+This is an interesting question from my BMath Ring Theory course, which was taught by Prof. B. Sury.  
 
-\\(\pi_n( - ) := [(\mathbb{S}^n,e_1), - ] : \mathsf{Top}_* \to \mathsf{Grp}\\)
+\\( \textbf{Question:} \\) Let \\( f \in \mathbb{Z}[x] \\) be a polynomial of degree \\( n > 0 \\). Pick \\( n+1 \\) distinct prime numbers, say \\( \{ p_1, \dots, p_{n+1} \} \\). Show that there exists a polynomial \\( g \in \mathbb{Z}[x] \\) such that  
 
-particularly for $n > 1$, becomes a functor from pointed spaces to abelian groups, i.e., $\pi_n : \mathsf{Top}_* \to \mathsf{Ab}$. However, unlike homology groups, homotopy groups lack a suspension isomorphism theorem. Fruedenthal's work established that the suspension functor induces an isomorphism under certain conditions, paving the way for stable homotopy theory. Though computing stable homotopy groups for even spheres remains formidable, their significance in various geometric and topological theories continues to motivate exploration of this challenging area of study. We will talk about Pontryagin-Thom construction, and conclude that classification of framed manifolds upto framed cobordism reduces to the computation of stable homotopy groups of spheres. Eventually we will see why one should expect such a result, here we will talk about generalised homology and Brown's representability theorem We will see that the bordism homology theory corresponds to generalised homology arising from Thom spectrum.
+\\[
+fg = \sum_{i=1}^{n+1} * x^{p_i}
+\\]  
+
+
