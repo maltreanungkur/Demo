@@ -47,7 +47,7 @@ Thus, a natural basis for \\( R \\) is \\( \\{ \\overline{1}, \\overline{x}, \\d
 \\implies \\sum\\limits_{i=1}^{n+1} u_i \\overline{x^{p_i}} = \\overline{0}
 \\]
 
-But what does that actually mean? Well, if we lift the equation we got from \\(R\\) to \\( \\mathbb{Q}[x] \\), we get that there's some polynomial \\( g \\in \\mathbb{Q}[x] \\) such that  
+But what does that actually mean? Well, if we lift the equation we got in \\(R\\) to \\( \\mathbb{Q}[x] \\), we get that there's some polynomial \\( g \\in \\mathbb{Q}[x] \\) such that  
 
 \\[
 \\sum\\limits_{i=1}^{n+1} u_i x^{p_i} = f g.
