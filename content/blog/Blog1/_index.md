@@ -15,7 +15,7 @@ This is an interesting question from my BMath Ring Theory course, which was taug
 
 \\( \textbf{Question:} \\) Let \\( f \in \mathbb{Z}[x] \\) be a polynomial of degree \\( n > 0 \\). Pick \\( n+1 \\) distinct prime numbers, say \\( p_1, \dots, p_{n+1}\\). Show that there exists a polynomial \\( g \in \mathbb{Z}[x] \\) such that  
 
-\\( fg = \sum_{i=1}^{n+1} c_i x^{p_i}  \quad \text{fo }c_i \text{in } \mathbb{Z}\\)
+\\( fg = \\sum\\limits_{i=1}^{n+1} c_i x^{p_i}  \quad \text{fo }c_i \text{in } \mathbb{Z}\\)
 
 I hope the problem statement is clear! Let’s dive into the solution.  
 
