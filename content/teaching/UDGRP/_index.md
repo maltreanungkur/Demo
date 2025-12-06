@@ -313,10 +313,10 @@ In this session, Nikhil Nagaria, from BMath 3rd Year, presented the following to
 ## References
 
 ### Reading (For Geometric Group Theory)
-1. <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/OHGGT.pdf">M. Clay, D. Margalit, *Office Hours with a Geometric Group Theorist*</a>
-2. <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/clara.pdf">C. Löh, *Geometric Group Theory*</a>
+1. <a href="https://press.princeton.edu/books/paperback/9780691158662/office-hours-with-a-geometric-group-theorist">M. Clay, D. Margalit, *Office Hours with a Geometric Group Theorist*</a>
+2. <a href="https://link.springer.com/book/10.1007/978-3-319-72254-2">C. Löh, *Geometric Group Theory*</a>
 
 ### Further Reading (For Basic Group Theory)
-1. <a href="https://rksmvv.ac.in/wp-content/uploads/2021/04/David_S_Dummit_Richard_M_Foote_Abstract_Algeb_230928_225848.pdf">D. S. Dummit, R. M. Foote, *Abstract Algebra*</a>
-2. <a href="https://raw.githubusercontent.com/maltreanungkur/web/main/documents/rotman.pdf">J. J. Rotman, *An Introduction to the Theory of Groups*</a>
+1. <a href="https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347">D. S. Dummit, R. M. Foote, *Abstract Algebra*</a>
+2. <a href="https://link.springer.com/book/10.1007/978-1-4612-4176-8">J. J. Rotman, *An Introduction to the Theory of Groups*</a>
 <br>
