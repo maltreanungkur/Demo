@@ -6,7 +6,7 @@ showTableOfContents: false
 sharinglinks: [""]
 ---
 
-## Research Interests
+## Mathematical Interests
 
 I am broadly interested in algebra, particularly in representation theory and Lie theory. I am also interested in low-dimensional topology and geometric group theory. 
 
@@ -20,10 +20,8 @@ I am broadly interested in algebra, particularly in representation theory and Li
 
 ## Talks and Mini-Courses
 
-- Constructions of Macaulay Posets and Macaulay Rings <br>
+- Talk: Constructions of Macaulay Posets and Macaulay Rings <br>
   At the End-of-Program Conference, Polymath Jr. [Slides](https://drive.google.com/uc?id=1d4_7Wy5NBvtMcwVE7sOM_zkX477xSJxT)
 
-- Introduction to Geometric Group Theory <br>
-  As part of the UGDRP for first- and second-year students at ISI Bangalore. [Notes](https://maltreanungkur.github.io/teaching/udgrp/)
-
-------
+- Mini-Course: Introduction to Geometric Group Theory <br>
+  As part of the UGDRP at ISI Bangalore. [Notes](https://maltreanungkur.github.io/teaching/udgrp/)
