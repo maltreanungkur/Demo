@@ -1,24 +1,29 @@
 ---
-title: "About Me"
-description: "Here I will mostly write about my self"
+title: "Research"
+description: "Here I will mostly write about my papers"
 showDate: false
 showTableOfContents: false
 sharinglinks: [""]
 ---
 
+## Research Interests
 
-Hey there! I’m Treanungkur (pronounced tri-nang-kur), but feel free to call me whatever version of my name works for you. I’m from Howrah, West Bengal and currently a second-year student at the Indian Statistical Insititute, Bangalore.
+I am broadly interested in algebra, particularly in representation theory and Lie theory. I am also interested in low-dimensional topology and geometric group theory. 
 
-My current obsession? Algebra! There’s just something magical about how it brings structure to chaos. But honestly, I’m equally excited about anything math-related—it’s the perfect blend of logic, creativity, and endless curiosity. I’m always up for a chat about Group Theory or Algebra in general (right now, Linear Algebra is my go-to). So, if you’re into Group Theory or Linear Algebra, feel free to meet me while I’m on campus. I also enjoy talking to juniors, even though I haven’t had many chances to do so yet! Also, ya I love Geometry too, so if you are interested we can also talk about it!
+------
 
-When I’m not lost in problem sets or assignments, I love chatting about math or jotting down random thoughts in LaTeX. If you’re into math too or just want to know how to say “Treanungkur” without a tongue-twist, feel free to reach out!
+## Preprints
 
-## Contact Information
+1. P. Beall, E. Boyali, N. Chen, E. Chlachidze, T. T. Dao, F. Garvey, M. Johnson, Y. O. Li, N. Kuzmanovski, K. Ma, T. Mal, R. Marasinghe, Q. Mayo, N. Minsky-Primus, A. Seceleanu, S. Veerapaneni, Constructions of Macaulay Posets and Macaulay Rings. [{{< icon "link" >}}](https://arxiv.org/abs/2502.15166)
 
-If you have any questions about the reading project or spot any mistakes in the lecture notes or problem sets, just let me know through these channels! Thanks:)
+------
 
-- **Email**: [maltreanungkur@gmail.com](mailto:maltreanungkur@gmail.com)
+## Talks and Mini-Courses
 
-- **WhatsApp**: [+91 8918517265](https://wa.me/918918517265)
+- Constructions of Macaulay Posets and Macaulay Rings <br>
+  At the End-of-Program Conference, Polymath Jr. [Slides](https://drive.google.com/uc?id=1d4_7Wy5NBvtMcwVE7sOM_zkX477xSJxT)
 
-- **Telegram**: [@TreanungkurMal](https://t.me/TreanungkurMal)
+- Introduction to Geometric Group Theory <br>
+  As part of the UGDRP for first- and second-year students at ISI Bangalore. [Notes](https://maltreanungkur.github.io/teaching/udgrp/)
+
+------
