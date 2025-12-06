@@ -15,13 +15,14 @@
 # pageRef = "/"
 # weight = 1
 
-[[main]]
- name = "Blogs"
- pageRef = "blog"
- weight = 30
+#[[main]]
+# name = "Blogs"
+# pageRef = "blog"
+# weight = 30
+
 
 [[main]]
- name = "About Me"
+ name = "Research"
  pageRef = "about"
  weight = 10
 
@@ -43,7 +44,7 @@
 # ordered by weight from lowest to highest.
 
 #[[main]]
-#  name = "Blog"
+#  name = "Research"
 #  pageRef = "posts"
 #  weight = 10
 
@@ -99,3 +100,6 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+
+
