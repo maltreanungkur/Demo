@@ -13,7 +13,7 @@ copyright = "&copy; 2025 Treanungkur Mal"
 [params.author]
   name = "Treanungkur Mal"
   image = "img/logo.jpg"
-  headline = "Undergraduate student at the Indian Statistical Institute"
+  headline = "Undergrad at the Indian Statistical Institute"
   bio = "Undergraduate Mathematics Student."
   links = [
     { email = "mailto:maltreanungkur@gmail.com" },
