@@ -24,4 +24,4 @@ I am broadly interested in algebra, particularly in representation theory and Li
   At the End-of-Program Conference, Polymath Jr. [Slides](https://drive.google.com/uc?id=1d4_7Wy5NBvtMcwVE7sOM_zkX477xSJxT)
 
 - Mini-Course: Introduction to Geometric Group Theory <br>
-  As part of the UGDRP at ISI Bangalore. [Notes](https://maltreanungkur.github.io/teaching/udgrp/)
+  As part of the UGDRP at ISI Bangalore. [Video](https://maltreanungkur.github.io/teaching/udgrp/)
